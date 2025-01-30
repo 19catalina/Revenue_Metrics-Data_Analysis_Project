@@ -18,4 +18,5 @@ Trust & Transparency: Users can see immediate changes when modifying filters, re
 This project reflects my passion for data storytelling and the ability to turn raw data into actionable insights. I hope you find it useful and insightful!
 
 
-Tableau : https://public.tableau.com/app/profile/catalina.serban/vizzes
+
+Tableau Dashboard : https://public.tableau.com/app/profile/catalina.serban/viz/FinalProject-RevenueMetrics_17367811430630/Dashboard1
